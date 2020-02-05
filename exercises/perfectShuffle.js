@@ -8,8 +8,9 @@
  */
 
 function perfectShuffle(array) {
-  // This is your job. :)
+  array.slice(array.length - 2);
 }
+
 
 let sanityCheck = require('./sanityCheck');
 
